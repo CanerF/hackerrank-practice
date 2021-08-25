@@ -1,0 +1,2 @@
+# hackerrank-practice
+Algorithm solutions 
